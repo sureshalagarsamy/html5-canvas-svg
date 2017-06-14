@@ -18,7 +18,7 @@ The markup looks like this:
 <canvas id="myCanvas" width="200" height="100" style="border:1px solid #000;">
 </canvas>
 ```
->![ScreenShot](https://user-images.githubusercontent.com/6780840/27128831-c6c06534-511d-11e7-8ab1-91c546319d10.png)
+![ScreenShot](https://user-images.githubusercontent.com/6780840/27128831-c6c06534-511d-11e7-8ab1-91c546319d10.png)
 
 ### Example
 ```javascript
